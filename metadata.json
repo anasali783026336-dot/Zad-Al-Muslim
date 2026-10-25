@@ -1,0 +1,6 @@
+{
+  "name": "زاد المسلم",
+  "description": "تطبيق إسلامي متكامل يحتوي على المصحف الشريف، الأذكار والمسبحة الإلكترونية، التقويم الهجري، التلاوات الصوتية، وتنبيهات الأذكار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
